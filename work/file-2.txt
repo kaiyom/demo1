@@ -1,2 +1,2 @@
 This is new message
-This is another message 
+This is different message 
